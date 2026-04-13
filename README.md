@@ -28,9 +28,9 @@ HTML | CSS | JavaScript | React.js | Next.js
 ---
 
 ### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuruzzaman-emon&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nuruzzaman-emon&layout=compact)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nuruzzaman-emon&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nuruzzaman-emon&show_icons=true)
 
 ![GitHub streak](https://streak-stats.demolab.com/?user=nuruzzaman-emon&theme=tokyonight)
 
