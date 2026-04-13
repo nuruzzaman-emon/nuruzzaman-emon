@@ -34,10 +34,10 @@ I’m a MERN stack web developer focused on building high-quality, error-free we
 ### 📊 GitHub Stats
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nuruzzaman-emon&layout=compact)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nuruzzaman-emon&show_icons=true)
 
-![GitHub streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub streak](https://streak-stats.demolab.com/?user=nuruzzaman-emon&theme=tokyonight)
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/nuruzzaman-emon/contributions?format=svg&private=true)
