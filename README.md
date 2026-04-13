@@ -32,7 +32,6 @@ I’m a MERN stack web developer focused on building high-quality, error-free we
 ---
 
 ### 📊 GitHub Stats
-### 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nuruzzaman-emon&layout=compact)
 
