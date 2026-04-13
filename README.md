@@ -6,10 +6,10 @@ I’m a mern stack web developer focused on building high-quality, error-free we
 
 Skills:  HTML / CSS/ JS/  REACT /  NEXT.JS
 
-- 🔭 I’m currently working on ShipSwift 
+- 🔭 I’m currently working on Next.Js 
 - 🌱 I’m currently learning Next.Js 
 - 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web Developmen 
+- 💬 Ask me about Web Development
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/nuruzzaman-emon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/nemon.khan.39)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-azure-three-rr5xp7fqbf.vercel.app/)  
