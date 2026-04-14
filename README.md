@@ -1,7 +1,7 @@
 ![MERN Stack Developer](https://res.cloudinary.com/dwfet15kj/image/upload/v1776137362/gitbanner_1_amojq5.png)
 ### Hi, Nice to see you
 ## I'm Emon Ali  
-#### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=MERN+Stack+Web+Developer+%7C+Passionate+Web+Developer+%7C+JavaScript+Enthusiast+%7C+Interested+in+Bioinformatics)](https://git.io/typing-svg)
+#### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=MERN+Stack+Web+Developer+%7C+;Passionate+Web+Developer+%7C+;JavaScript+Enthusiast+%7C;Interested+in+Bioinformatics)](https://git.io/typing-svg)
 
 I’m a MERN stack web developer focused on building high-quality, error-free websites that ensure excellent user experience and client satisfaction. I enjoy solving real-world problems and work with a strategic, goal-driven approach. I specialize in JavaScript, React.js, and Next.js, and I’m committed to delivering reliable and efficient solutions.
 
