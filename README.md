@@ -16,11 +16,14 @@ I’m a MERN stack web developer focused on building high-quality, error-free we
 ---
 
 ### 🌱 Current Activities
-- 🔭 Working on **ShipSwift**  
-- 🌱 Learning **Next.js**  
-- 👯 Looking to collaborate on **GitHub**  
-- 💬 Ask me about **Web Development**  
-
+- Hi I am [@nuruzzaman-emon](https://github.com/nuruzzaman-emon).
+- 🔭 I am currently working on **React.js**.
+- Using **Node.js**, **Express.js**, **MongoDB** for the backend.
+- 🌱 I am currently learning **Next.js**.
+- 💬 Ask me about **Web Development**.
+- 👯 Looking to collaborate on [GitHub](https://github.com/nuruzzaman-emon)
+- 🌐 Explore my portfolio: [@nuruzzaman-emon](https://portfolio-azure-three-rr5xp7fqbf.vercel.app/)
+- 📧 Feel free to reach me: [emon21108@gmail.com](mailto:emon21108@gmail.com)
 ---
 
 ### 🌐 Connect with me
