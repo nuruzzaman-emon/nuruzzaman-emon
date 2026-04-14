@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Emon Ali  
 #### MERN Stack Web Developer  
 
-![MERN Stack Developer](https://res.cloudinary.com/dwfet15kj/image/upload/q_auto/f_auto/v1776068655/Confident_web_developer_in_action_1_i3zlpt.png)
+![MERN Stack Developer](https://res.cloudinary.com/dwfet15kj/image/upload/v1776136538/Gemini_Generated_Image_ivj52rivj52rivj5_1_p2m8lq.png)
 
 I’m a MERN stack web developer focused on building high-quality, error-free websites that ensure excellent user experience and client satisfaction. I enjoy solving real-world problems and work with a strategic, goal-driven approach. I specialize in JavaScript, React.js, and Next.js, and I’m committed to delivering reliable and efficient solutions.
 
