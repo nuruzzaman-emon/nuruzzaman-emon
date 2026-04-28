@@ -23,7 +23,7 @@ I’m a MERN stack web developer focused on building high-quality, error-free we
 - 🌱 I am currently learning **Next.js**.
 - 💬 Ask me about **Web Development**.
 - 👯 Looking to collaborate on [GitHub](https://github.com/nuruzzaman-emon)
-- 🌐 Explore my [Portfolio](https://portfolio-azure-three-rr5xp7fqbf.vercel.app/)
+- 🌐 Explore my [Portfolio](https://portfolio-azure-three-rr5xp7fqbf.vercel.app/) and [Resume](https://drive.google.com/file/d/1hXJwacOpDABe_zI9sgShEDQdi59CKe2w/view)
 - 📧 Feel free to reach me: [Email](https://mail.google.com/mail/?view=cm&fs=1&to=emon21108@gmail.com)
 ---
 
