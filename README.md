@@ -1,4 +1,4 @@
-![MERN Stack Developer](https://res.cloudinary.com/dwfet15kj/image/upload/v1776137362/gitbanner_1_amojq5.png)
+![MERN Stack Developer](https://res.cloudinary.com/dwfet15kj/image/upload/v1785987821/github_kqtzcx.png)
 ### Hi, Nice to see you
 ## I'm Emon Ali  
 #### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=MERN+Stack+Web+Developer+;Learning+Next.js;JavaScript+Enthusiast+;Interested+in+Bioinformatics)](https://git.io/typing-svg)
