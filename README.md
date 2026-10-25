@@ -23,14 +23,14 @@ I’m a MERN stack web developer focused on building high-quality, error-free we
 - 🌱 I am currently learning **Next.js**.
 - 💬 Ask me about **Web Development**.
 - 👯 Looking to collaborate on [GitHub](https://github.com/nuruzzaman-emon)
-- 🌐 Explore my [Portfolio](https://portfolio-code-omega.vercel.app/) and [Resume](https://drive.google.com/file/d/1quvxuNHz8s1h0-NFFtmcOcJckGIJYPaA/view?usp=sharing)
+- 🌐 Explore my [Portfolio](https://emon-portfolio-dev.vercel.app/) and [Resume](https://docs.google.com/document/d/1ZxKLtrgvVASvwlUk7rn68y8_T6z_VoTt0KLrfED5MH4/edit?usp=sharing)
 - 📧 Feel free to reach me: [Email](https://mail.google.com/mail/?view=cm&fs=1&to=emon21108@gmail.com)
 ---
 
 ### 🌐 Connect with me
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/nuruzzaman-emon)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nemon.khan.39)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://portfolio-code-omega.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://emon-portfolio-dev.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-emon-ali/)
 ---
 
